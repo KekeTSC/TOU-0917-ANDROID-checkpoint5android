@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">WCSTravel</string>
+    <string name="app_name" translatable="false">WCSTravel</string>
+    <string name="return_date">Date de retour</string>
+    <string name="departure_date">Date de départ</string>
+    <string name="search_travels">Chercher les vols</string>
+    <string name="destination_airport">Aéroport d\'arrivée</string>
+    <string name="departure_airport">Aéroport de départ</string>
+    <string name="jan_to_sep_date">%d-0%d-%d</string>
+    <string name="oct_to_dec_date">%d-%d-%d</string>
+    <string name="please_fill_fields">Veuillez remplir tout les champs</string>
 </resources>
