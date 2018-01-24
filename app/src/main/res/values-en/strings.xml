@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="return_date">Return date</string>
+    <string name="departure_date">Departure date</string>
+    <string name="search_travels">Search travels</string>
+    <string name="destination_airport">Destination airport</string>
+    <string name="departure_airport">Departure airport</string>
+    <string name="please_fill_fields">Please fill all the fields</string>
+</resources>
